@@ -1,5 +1,5 @@
-#First React Native Expo
-##Todos just to learn react native basics
+# First React Native Expo
+## Todos just to learn react native basics
 
 
 
